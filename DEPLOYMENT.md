@@ -17,6 +17,7 @@ This RAG Mini-Platform is designed as a **full-stack Docker application** for **
 ### **Local Development Only** (Recommended)
 
 This project is best used for:
+
 - **Local development and testing**
 - **Demonstrations and presentations**
 - **Learning and experimentation**
@@ -27,16 +28,19 @@ This project is best used for:
 If you need cloud deployment, consider:
 
 1. **Self-Hosted VPS**
+
    - Full control
    - Cost-effective
    - Use Docker Compose
 
 2. **AWS ECS/Fargate**
+
    - Production-ready
    - Scalable
    - Supports Docker Compose
 
 3. **Google Cloud Run**
+
    - Serverless containers
    - Good for production
    - Supports Docker
@@ -76,18 +80,21 @@ MAX_FILE_SIZE=10485760
 If you have cloud deployment projects connected to this repository:
 
 ### **Vercel Projects:**
+
 1. **Go to [Vercel Dashboard](https://vercel.com/dashboard)**
 2. **Find the projects** (rag-backend, rag-frontend, rag-mini-platform)
 3. **Delete each project**
 4. **Disconnect from GitHub repository**
 
 ### **Railway Projects:**
+
 1. **Go to [Railway Dashboard](https://railway.app/dashboard)**
 2. **Find the projects** (pleasing-upliftment, responsible-education)
 3. **Delete each project**
 4. **Disconnect from GitHub repository**
 
 ### **Render Projects:**
+
 1. **Go to [Render Dashboard](https://dashboard.render.com/)**
 2. **Find any connected projects**
 3. **Delete each project**
