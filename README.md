@@ -34,9 +34,9 @@ A lightweight Retrieval-Augmented Generation (RAG) system with Multi-Context Pro
 - Docker and Docker Compose
 - Groq API key
 
-### ⚠️ Deployment Note
+### ⚠️ Development Note
 
-This project is designed for **local development** and **Docker-based deployment**. It **cannot be deployed on Vercel** due to its architecture requirements. See [DEPLOYMENT.md](./DEPLOYMENT.md) for proper deployment options.
+This project is designed for **local development and demonstration purposes**. It's optimized for hands-on development and testing rather than cloud deployment. See [DEPLOYMENT.md](./DEPLOYMENT.md) for usage guidelines.
 
 ### Option 1: Using the Start Script (Recommended)
 
